@@ -1,8 +1,8 @@
-   # Monali Guleria – Technical Writing & Security Portfolio
+# Monali Guleria – Technical Writing & Security Portfolio
 
-   ## FastAPI Repository – Technical Documentation & Security Review (Aug 2026)
-   A source-level review of FastAPI's architecture and security model:
-   OAuth 2.0 + JWT, API key authentication, RBAC, secrets management,
-   and a walkthrough of the request lifecycle in `fastapi/routing.py`.
+## FastAPI Repository – Technical Documentation & Security Review (Aug 2026)
 
-   📄 [Read the full review (PDF)](FastAPI_Security_Review.pdf)
+A source-level review of FastAPI's architecture and security model: OAuth 2.0 + JWT, API key authentication, RBAC, secrets management, and a walkthrough of the request lifecycle in `fastapi/routing.py`.
+
+📄 [Read the full review (PDF)](FastAPI_Repository_Technical_Documentation_Review%20(1).pdf) 
+  
